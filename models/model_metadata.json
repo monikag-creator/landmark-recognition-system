@@ -1,0 +1,15 @@
+{
+  "class_names": [
+    "Eiffel_Tower",
+    "Colosseum",
+    "Taj_Mahal",
+    "Big_Ben",
+    "Statue_of_Liberty"
+  ],
+  "num_classes": 5,
+  "architecture": "Custom CNN (4 Conv blocks + GAP)",
+  "final_val_accuracy": 1.0,
+  "weighted_precision": 1.0,
+  "weighted_recall": 1.0,
+  "weighted_f1": 1.0
+}

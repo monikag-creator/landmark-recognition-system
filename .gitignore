@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.keras
+*.h5
+data/
+venv/
+.DS_Store
+Thumbs.db
